@@ -1,0 +1,3001 @@
+Crime_Category,Crime_Severity_Level,Use_of_Weapon,Repeat_Offender,IPC_Section_and_Punishment
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Assault,Moderate,0,1,IPC 324 - Up to 3 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Assault,Moderate,0,0,IPC 324 - Up to 3 years
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Murder,Severe,0,0,IPC 302 - Life Imprisonment
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Fraud,Moderate,1,0,IPC 420 - Up to 7 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Murder,Moderate,1,1,IPC 302 - Life Imprisonment
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Fraud,Minor,1,1,IPC 420 - Up to 7 years
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Murder,Moderate,0,1,IPC 302 - Life Imprisonment
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Fraud,Severe,1,1,IPC 420 - Up to 7 years
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Fraud,Severe,0,0,IPC 420 - Up to 7 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Theft,Minor,1,1,IPC 379 - Up to 3 years
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Assault,Severe,0,0,IPC 324 - Up to 3 years
+Assault,Moderate,1,1,IPC 324 - Up to 3 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Theft,Minor,0,1,IPC 379 - Up to 3 years
+Assault,Minor,0,0,IPC 324 - Up to 3 years
+Fraud,Minor,0,1,IPC 420 - Up to 7 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Theft,Severe,0,0,IPC 379 - Up to 3 years
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Theft,Moderate,1,0,IPC 379 - Up to 3 years
+Assault,Severe,0,1,IPC 324 - Up to 3 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Theft,Severe,1,0,IPC 379 - Up to 3 years
+Murder,Moderate,1,0,IPC 302 - Life Imprisonment
+Fraud,Moderate,0,1,IPC 420 - Up to 7 years
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Murder,Minor,0,1,IPC 302 - Life Imprisonment
+Assault,Minor,1,1,IPC 324 - Up to 3 years
+Theft,Moderate,0,1,IPC 379 - Up to 3 years
+Fraud,Severe,1,0,IPC 420 - Up to 7 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Murder,Severe,1,0,IPC 302 - Life Imprisonment
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Theft,Minor,1,0,IPC 379 - Up to 3 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Fraud,Severe,0,1,IPC 420 - Up to 7 years
+Murder,Severe,0,1,IPC 302 - Life Imprisonment
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Fraud,Moderate,1,1,IPC 420 - Up to 7 years
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Assault,Severe,1,0,IPC 324 - Up to 3 years
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Assault,Severe,1,1,IPC 324 - Up to 3 years
+Murder,Minor,1,0,IPC 302 - Life Imprisonment
+Theft,Moderate,0,0,IPC 379 - Up to 3 years
+Theft,Severe,1,1,IPC 379 - Up to 3 years
+Theft,Minor,0,0,IPC 379 - Up to 3 years
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Murder,Minor,0,0,IPC 302 - Life Imprisonment
+Assault,Minor,1,0,IPC 324 - Up to 3 years
+Murder,Severe,1,1,IPC 302 - Life Imprisonment
+Theft,Moderate,1,1,IPC 379 - Up to 3 years
+Assault,Minor,0,1,IPC 324 - Up to 3 years
+Fraud,Moderate,0,0,IPC 420 - Up to 7 years
+Fraud,Minor,0,0,IPC 420 - Up to 7 years
+Theft,Severe,0,1,IPC 379 - Up to 3 years
+Assault,Moderate,1,0,IPC 324 - Up to 3 years
+Murder,Minor,1,1,IPC 302 - Life Imprisonment
+Murder,Moderate,0,0,IPC 302 - Life Imprisonment
+Fraud,Minor,1,0,IPC 420 - Up to 7 years
+Assault,Severe,0,0,IPC 324 - Up to 3 years
