@@ -3,30 +3,23 @@
 <head>
   <meta charset="UTF-8" />
   <title>Crime IPC Section & Punishment Predictor</title>
-  <link
-    href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
-    rel="stylesheet"
-  />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
   <style>
     body {
       background: linear-gradient(135deg, #f0f4f8, #d9e2ec);
       min-height: 100vh;
     }
-
     .card {
       border-radius: 1rem;
       box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
     }
-
     .btn-primary {
       background-color: #007bff;
       border: none;
     }
-
     .btn-primary:hover {
       background-color: #0056b3;
     }
-
     h2 {
       color: #333;
     }
@@ -92,9 +85,22 @@
       </form>
 
       {% if prediction %}
-      <div class="alert alert-success mt-4 text-center">
-        {{ prediction }}
-      </div>
+        <div class="alert alert-success mt-4 text-center">
+          {{ prediction }}
+        </div>
+
+        {% if input_values %}
+          <div class="alert alert-info mt-2">
+            <h5>🔍 Your Inputs:</h5>
+            <ul class="list-group">
+              <li class="list-group-item">Crime Category: {{ input_values['Crime_Category'] }}</li>
+              <li class="list-group-item">Crime Severity Level: {{ input_values['Crime_Severity_Level'] }}</li>
+              <li class="list-group-item">Use of Weapon: {{ input_values['Use_of_Weapon'] }}</li>
+              <li class="list-group-item">Repeat Offender: {{ input_values['Repeat_Offender'] }}</li>
+              <li class="list-group-item">Severity Weapon Flag: {{ input_values['Severity_Weapon_Flag'] }}</li>
+            </ul>
+          </div>
+        {% endif %}
       {% endif %}
     </div>
   </div>
