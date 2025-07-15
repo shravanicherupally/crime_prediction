@@ -7,11 +7,20 @@
   <style>
     body {
       background: linear-gradient(135deg, #f0f4f8, #d9e2ec);
-      min-height: 100vh;
+    }
+    .hero {
+      padding: 60px 0;
+    }
+    .hero h1 {
+      font-size: 2.5rem;
+      font-weight: bold;
+    }
+    .section {
+      padding: 60px 0;
     }
     .card {
       border-radius: 1rem;
-      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
     }
     .btn-primary {
       background-color: #007bff;
@@ -20,89 +29,155 @@
     .btn-primary:hover {
       background-color: #0056b3;
     }
-    h2 {
-      color: #333;
+    .img-hero {
+      max-width: 100%;
+      border-radius: 1rem;
     }
   </style>
 </head>
 <body>
-  <div class="container d-flex justify-content-center align-items-center py-5">
-    <div class="card p-4 col-md-6">
-      <h2 class="mb-4 text-center">Prediction of Legal Punishment & IPC Sections</h2>
 
-      <form method="POST">
-        <div class="mb-3">
-          <label class="form-label">Crime Category</label>
-          <select name="crime_category" class="form-select" required>
-            <option value="" disabled selected>Select Category</option>
-            <option value="0">Theft (0)</option>
-            <option value="1">Murder (1)</option>
-            <option value="2">Assault (2)</option>
-            <option value="3">Fraud (3)</option>
-          </select>
+  <!-- ✅ HERO SECTION -->
+  <section class="hero bg-white">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-md-6">
+          <h1>Prediction of Legal Punishment & IPC Sections</h1>
+          <p class="lead">
+            Our system predicts the possible IPC section and legal punishment based on crime details using supervised machine learning.
+          </p>
+          <p>
+            Get insights about possible legal actions and penalties for various crime categories.
+          </p>
+        </div>
+        <div class="col-md-6 text-center">
+          <img src="{{ url_for('static', filename='ipc.jpg') }}" alt="Crime Law" class="img-hero">
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ✅ ABOUT SECTION -->
+  <section class="section bg-light">
+    <div class="container">
+      <h2 class="text-center mb-4">About Us</h2>
+      <p class="text-center mb-4">
+        We are dedicated to building intelligent tools for predicting crime outcomes, assisting law enforcement, legal professionals, and policymakers with data-driven insights.
+      </p>
+      <div class="row text-center">
+        <div class="col-md-4">
+          <h5>Accurate Crime Predictions</h5>
+          <p>Get precise IPC section predictions for given crime details.</p>
+        </div>
+        <div class="col-md-4">
+          <h5>Easy-to-Use Platform</h5>
+          <p>Simple input form and instant predictions, accessible anywhere.</p>
+        </div>
+        <div class="col-md-4">
+          <h5>Support for Legal System</h5>
+          <p>Helps decision-makers understand potential punishments.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ✅ FORM SECTION + INPUT GUIDE -->
+  <section class="section">
+    <div class="container">
+      <div class="row g-4">
+        <!-- FORM -->
+        <div class="col-md-6">
+          <div class="card p-4">
+            <h2 class="mb-4 text-center">Enter Crime Details</h2>
+            <form method="POST">
+              <div class="mb-3">
+                <label class="form-label">Crime Category</label>
+                <select name="crime_category" class="form-select" required>
+                  <option value="" disabled selected>Select Category</option>
+                  <option value="0">Theft (0)</option>
+                  <option value="1">Murder (1)</option>
+                  <option value="2">Assault (2)</option>
+                  <option value="3">Fraud (3)</option>
+                </select>
+              </div>
+
+              <div class="mb-3">
+                <label class="form-label">Crime Severity Level</label>
+                <select name="severity_level" class="form-select" required>
+                  <option value="" disabled selected>Select Severity</option>
+                  <option value="0">Minor (0)</option>
+                  <option value="1">Moderate (1)</option>
+                  <option value="2">Severe (2)</option>
+                </select>
+              </div>
+
+              <div class="mb-3">
+                <label class="form-label">Use of Weapon</label>
+                <select name="use_of_weapon" class="form-select" required>
+                  <option value="" disabled selected>Select Option</option>
+                  <option value="0">No (0)</option>
+                  <option value="1">Yes (1)</option>
+                </select>
+              </div>
+
+              <div class="mb-3">
+                <label class="form-label">Repeat Offender</label>
+                <select name="repeat_offender" class="form-select" required>
+                  <option value="" disabled selected>Select Option</option>
+                  <option value="0">No (0)</option>
+                  <option value="1">Yes (1)</option>
+                </select>
+              </div>
+
+              <div class="mb-3">
+                <label class="form-label">Severity Weapon Flag</label>
+                <select name="severity_weapon_flag" class="form-select" required>
+                  <option value="" disabled selected>Select Option</option>
+                  <option value="0">No (0)</option>
+                  <option value="1">Yes (1)</option>
+                </select>
+              </div>
+
+              <div class="d-grid">
+                <button type="submit" class="btn btn-primary">Predict</button>
+              </div>
+            </form>
+
+            {% if prediction %}
+            <div class="alert alert-success mt-4 text-center">
+              {{ prediction }}
+            </div>
+            {% endif %}
+
+            {% if inputs %}
+            <div class="alert alert-info mt-2">
+              <strong>Inputs Given:</strong><br/>
+              Crime Category: {{ inputs.crime_category }}<br/>
+              Severity Level: {{ inputs.severity_level }}<br/>
+              Use of Weapon: {{ inputs.use_of_weapon }}<br/>
+              Repeat Offender: {{ inputs.repeat_offender }}<br/>
+              Severity Weapon Flag: {{ inputs.severity_weapon_flag }}
+            </div>
+            {% endif %}
+          </div>
         </div>
 
-        <div class="mb-3">
-          <label class="form-label">Crime Severity Level</label>
-          <select name="severity_level" class="form-select" required>
-            <option value="" disabled selected>Select Severity</option>
-            <option value="0">Minor (0)</option>
-            <option value="1">Moderate (1)</option>
-            <option value="2">Severe (2)</option>
-          </select>
-        </div>
-
-        <div class="mb-3">
-          <label class="form-label">Use of Weapon</label>
-          <select name="use_of_weapon" class="form-select" required>
-            <option value="" disabled selected>Select Option</option>
-            <option value="0">No (0)</option>
-            <option value="1">Yes (1)</option>
-          </select>
-        </div>
-
-        <div class="mb-3">
-          <label class="form-label">Repeat Offender</label>
-          <select name="repeat_offender" class="form-select" required>
-            <option value="" disabled selected>Select Option</option>
-            <option value="0">No (0)</option>
-            <option value="1">Yes (1)</option>
-          </select>
-        </div>
-
-        <div class="mb-3">
-          <label class="form-label">Severity Weapon Flag</label>
-          <select name="severity_weapon_flag" class="form-select" required>
-            <option value="" disabled selected>Select Option</option>
-            <option value="0">No (0)</option>
-            <option value="1">Yes (1)</option>
-          </select>
-        </div>
-
-        <div class="d-grid">
-          <button type="submit" class="btn btn-primary">Predict</button>
-        </div>
-      </form>
-
-      {% if prediction %}
-        <div class="alert alert-success mt-4 text-center">
-          {{ prediction }}
-        </div>
-
-        {% if input_values %}
-          <div class="alert alert-info mt-2">
-            <h5>🔍 Your Inputs:</h5>
-            <ul class="list-group">
-              <li class="list-group-item">Crime Category: {{ input_values['Crime_Category'] }}</li>
-              <li class="list-group-item">Crime Severity Level: {{ input_values['Crime_Severity_Level'] }}</li>
-              <li class="list-group-item">Use of Weapon: {{ input_values['Use_of_Weapon'] }}</li>
-              <li class="list-group-item">Repeat Offender: {{ input_values['Repeat_Offender'] }}</li>
-              <li class="list-group-item">Severity Weapon Flag: {{ input_values['Severity_Weapon_Flag'] }}</li>
+        <!-- INPUT GUIDE -->
+        <div class="col-md-6">
+          <div class="card p-4">
+            <h4>Understanding the Inputs</h4>
+            <ul>
+              <li><strong>Crime Category:</strong> Type of crime (e.g., Theft, Murder, Assault, Fraud).</li>
+              <li><strong>Crime Severity Level:</strong> Severity of the crime: Minor, Moderate, Severe.</li>
+              <li><strong>Use of Weapon:</strong> Whether a weapon was used in the crime.</li>
+              <li><strong>Repeat Offender:</strong> Whether the criminal is a repeat offender.</li>
+              <li><strong>Severity Weapon Flag:</strong> Indicates if both severe crime and weapon use apply.</li>
             </ul>
           </div>
-        {% endif %}
-      {% endif %}
+        </div>
+      </div>
     </div>
-  </div>
+  </section>
+
 </body>
 </html>
